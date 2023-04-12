@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @iamflowerdog
+### Hi there 👋
+- 👋 I’m @iamflowerdog
 - 👀 I’m interested in ChatGPT
 - 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on Product
