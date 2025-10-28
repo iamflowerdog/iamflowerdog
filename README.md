@@ -17,7 +17,7 @@ Support domestic open source, **China opensource** refueling!
 
 |      更多       |      关于      |      公众号      |     个人博客     |      我      |
 | ----------- | ----------- |----------- |----------- | ------------ |
-| [知乎](https://www.zhihu.com/people/build800) | [blog](https://www.sprit.vip) |   [趣谈前端](https://www.sprit.vip)   |     [yang](https://me.sprit.vip)    | [天马行空](https://www.sprit.vip)
+| [知乎](https://me.sprit.vip) | [blog](https://www.sprit.vip) |   [趣谈前端](https://www.sprit.vip)   |     [yang](https://me.sprit.vip)    | [天马行空](https://www.sprit.vip)
 
 ### Skill description
 
